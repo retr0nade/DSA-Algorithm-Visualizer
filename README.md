@@ -1,4 +1,4 @@
-# 🧠 DSA Playground – Sorting Algorithm Visualizer
+# 🧠 DSA Playground – Algorithm Visualizer
 
 An interactive and responsive web app to **visualize sorting algorithms** step-by-step, built using **React**, **Tailwind CSS**, and **localStorage** for session persistence. This tool helps users understand the inner workings of key sorting techniques with colorful animations, real-time pseudocode, and complexity breakdowns.
 
