@@ -1,0 +1,15 @@
+/* Remove default Vite styles, or keep for very specific App global styles not covered by Tailwind */
+/* For now, let's keep it minimal or empty if Tailwind handles everything */
+
+/* Example of keeping a custom font import if not handled elsewhere, though index.css is better for global fonts */
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap'); */
+
+/* If you have global layout rules that are easier here, you can add them.
+   However, prefer using Tailwind classes in your components for consistency.
+*/
+#root {
+  /* max-width: 1280px; */ /* Example of a global constraint, but usually handled by a main layout component */
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+  /* text-align: center; */
+}
