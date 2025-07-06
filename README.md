@@ -32,7 +32,6 @@ An interactive and responsive web app to **visualize sorting algorithms** step-b
 
 🌃 **UX Additions:**
 
-- **Dark/Light mode** toggle
 - Fully **responsive layout** (desktop, tablet, mobile)
 - Smooth transitions with Tailwind animations and Framer Motion
 
