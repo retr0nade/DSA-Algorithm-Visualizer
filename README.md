@@ -10,7 +10,7 @@ An interactive and responsive web app to **visualize sorting algorithms** step-b
 - Bubble Sort
 - Merge Sort
 - Quick Sort
-(More to be added soon!)
+- (More to be added soon!)
 
 🎨 **Interactive UI Includes:**
 
